@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "isaac_bot", 
+    "username": "isaacc_bot_amak", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "New repositoryBACASI.aternos.me", 
+    "ip": "BACASI.aternos.me", 
     "port": 63728,   
     "version": "1.12.1"   
   },
@@ -25,14 +25,14 @@
     },
 
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
-    },
+  "enabled": true,
+  "afk-type": "random"
+}
 
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 60,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 0,
 
       "messages": [
         "I'm a regular player",
